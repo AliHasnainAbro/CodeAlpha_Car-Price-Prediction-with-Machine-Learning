@@ -65,10 +65,8 @@ Ensure Python is installed: This project requires Python 3.x.
 
 Clone the repository (or download the project files):
 
-git clone https://github.com/your-username/CodeAlpha_Car-Price-Prediction-with-Machine-Learning.git
+git clone https://github.com/AliHasnainAbro/CodeAlpha_Car-Price-Prediction-with-Machine-Learning.git
 cd car-price-prediction
-
-(Replace https://github.com/your-username/CodeAlpha_Car-Price-Prediction-with-Machine-Learning.git with the actual repository URL if hosted online, or simply navigate to your project directory.)
 
 Create a virtual environment (recommended):
 
