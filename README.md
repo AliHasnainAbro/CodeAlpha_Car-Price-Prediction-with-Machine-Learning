@@ -1,4 +1,3 @@
-Car Price Prediction with Machine Learning
 This project implements a machine learning model to predict the selling price of used cars. It leverages various car attributes such as kilometers driven, fuel type, selling type, transmission, and the age of the car to build a robust prediction model using the Random Forest Regressor.
 
 Table of Contents
